@@ -1165,7 +1165,7 @@ img {
 */
 .services {
 	padding: 70px 90px 30px;
-	background: url(../images/intro-bg.jpg) no-repeat center 90px;
+	background: url(../ikl.durians/img/intro-bg.jpg) no-repeat center 90px;
 }
 
 .services3,.services4 {
@@ -1193,7 +1193,7 @@ img {
 	width: 35px;
 	height: 25px;
 	padding-top:5px;
-	background: #fff url(../img/intro-bg.jpg);
+	background: #fff url(../ikl.durians/img/intro-bg.jpg);
 	display: table;
 	text-align: center;
 	line-height: 25px;
@@ -1271,7 +1271,9 @@ img {
 	display: table;
 }
 
-
+/*
+|--------------------------------------------------------------------------
+|  7.0 About
 
 hr {
   margin-top: 20px;
