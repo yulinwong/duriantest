@@ -11110,7 +11110,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: #268047;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
@@ -11198,7 +11198,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #222;
+  background-color: #268047;
   border-color: #080808;
 }
 .navbar-inverse .navbar-brand {
