@@ -1157,10 +1157,10 @@ img {
 
 |--------------------------------------------------------------------------
 |  6.0 Services Content
-|  
+|
 |--------------------------------------------------------------------------
 |
-| 
+|
 |
 */
 .services {
@@ -1187,7 +1187,7 @@ img {
 }
 
 .service-content .icon-surround-1.new-lh {
-	line-height:150px	
+	line-height:150px
 }
 .service-content .icon-surround-1 span, .service-content .ico1 span,.service-content .ico2 span,.service-content .ico3 span,.service-content .ico4 span {
 	width: 35px;
@@ -1220,7 +1220,7 @@ img {
 	-moz-transition: all .3s ease-in-out;
 	-o-transition: all .3s ease-in-out;
 	transition: all .3s ease-in-out;
-	
+
 }
 
 .service-content .icon-surround-1 span:before, .service-content .ico1 span:before,.service-content .ico2 span:before,.service-content .ico3 span:before,.service-content .ico4 span:before {
@@ -1237,13 +1237,13 @@ img {
 	top: 0;
 	left: 0;
 	right: 0;
-	
+
 }
 
 .icon-surround-1 i {
-	font-size:50px; 
-	line-height:65px; 
-	color:#444 
+	font-size:50px;
+	line-height:65px;
+	color:#444
 }
 .service-content:hover .icon-surround-1 i {
 	color:#fff
@@ -4246,12 +4246,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-fixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
-  max-height: 340px;
+  max-height: 400px;
 }
 @media (max-device-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
-    max-height: 200px;
+    max-height: 400px;
   }
 }
 .container > .navbar-header,
@@ -10825,12 +10825,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-fixed-top .navbar-collapse,
 .navbar-fixed-bottom .navbar-collapse {
-  max-height: 340px;
+  max-height: 400px;
 }
 @media (max-device-width: 480px) and (orientation: landscape) {
   .navbar-fixed-top .navbar-collapse,
   .navbar-fixed-bottom .navbar-collapse {
-    max-height: 200px;
+    max-height: 400px;
   }
 }
 .container > .navbar-header,
@@ -13288,5 +13288,3 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-
-
