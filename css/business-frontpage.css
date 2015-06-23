@@ -13,7 +13,7 @@ body {
 .business-header {
   background-image: url("https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg") center center no-repeat scroll;
   background-repeat: no-repeat;
-background-position: cover, center bottom;
+  background-position: center;
 -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
