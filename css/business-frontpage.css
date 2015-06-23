@@ -11,7 +11,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-  <img class="img-thumbnail img-responsive img-center" src="https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg" alt="cloud">
+  background-image: image("https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg")
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
