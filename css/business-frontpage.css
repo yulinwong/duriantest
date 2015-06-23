@@ -11,13 +11,9 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
-<<<<<<< HEAD
       height: 400px;
-    background-image: url(https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg), url(https://cloud.githubusercontent.com/assets/8654889/8297910/70592996-1994-11e5-897b-afae6efcb723.jpg);
-    background-repeat: no-repeat;
-background-position: 2781px 400px, center bottom;
-background-size: cover, auto;
->>>>>>> origin/gh-pages
+    background-image: url(https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg) center bottom no-repeat, url(https://cloud.githubusercontent.com/assets/8654889/8297910/70592996-1994-11e5-897b-afae6efcb723.jpg) left top no-repeat;
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
