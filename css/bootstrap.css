@@ -6822,7 +6822,7 @@ select,
 textarea {
   margin: 0;
   font: inherit;
-  color: #4B956F;
+  color: inherit;
 }
 button {
   overflow: visible;
