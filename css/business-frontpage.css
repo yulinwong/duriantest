@@ -5,7 +5,7 @@
  */
 
 body {
-    padding-top: 400px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
@@ -14,9 +14,10 @@ body {
 <<<<<<< HEAD
       height: 400px;
     background-image: url(https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg), url(https://cloud.githubusercontent.com/assets/8654889/8297910/70592996-1994-11e5-897b-afae6efcb723.jpg);
-=======
-    height: 400px;
-    background-image: url(https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg), url(https://cloud.githubusercontent.com/assets/8654889/8297910/70592996-1994-11e5-897b-afae6efcb723.jpg); center center no-repeat scroll;
+    background-repeat: no-repeat;
+background-position: 20px 100px, 400px 50px, center bottom;
+background-color: #ffffff;
+background-size: 70px, auto, cover;
 >>>>>>> origin/gh-pages
     -webkit-background-size: cover;
     -moz-background-size: cover;
