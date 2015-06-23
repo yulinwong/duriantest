@@ -11,9 +11,10 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .business-header {
+    width: 2671px;
     height: 400px;
     background-image: url(https://cloud.githubusercontent.com/assets/8654889/8297803/39147234-1993-11e5-8559-9a70224827ec.jpg), url(https://cloud.githubusercontent.com/assets/8654889/8297910/70592996-1994-11e5-897b-afae6efcb723.jpg);
-  background-size: cover, bottom-right;
+  background-size: auto, bottom-right;
 -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
