@@ -39,7 +39,7 @@ body {
     color: rgba(255, 255, 255, 0.8);
   }
   .navbar-custom .nav li a {
-    color: white;
+    color: #499273;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
