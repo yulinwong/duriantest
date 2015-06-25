@@ -36,15 +36,15 @@ body {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #003A21;
   }
   .navbar-custom .nav li a {
-    color: #499273;
+    color: #003a21;
     padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    color: #003a21;
   }
 }
 @media only screen and (min-width: 1170px) {
