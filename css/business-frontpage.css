@@ -11,7 +11,7 @@ body {
 .navbar-custom {
   position: absolute;
   top: 0;
-  left: 80%;
+  left: 0;
   width: 100%;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -28,7 +28,7 @@ body {
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     background: transparent;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid #0085a1;
   }
   .navbar-custom .navbar-brand {
     color: #0085a1;
