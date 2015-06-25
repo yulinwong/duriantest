@@ -12,7 +12,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 80%;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -31,7 +31,7 @@ body {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: #003A21;
+    color: #0085a1;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
@@ -40,7 +40,7 @@ body {
   }
   .navbar-custom .nav li a {
     color: #003a21;
-    padding: 10px;
+    padding: 20px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
