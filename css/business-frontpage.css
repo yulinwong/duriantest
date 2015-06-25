@@ -31,16 +31,16 @@ body {
     border-bottom: 1px solid transparent;
   }
   .navbar-custom .navbar-brand {
-    color: #0085a1;
+    color: #003A21;
     padding: 20px;
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #003A21;
+    color: #0085a1;
   }
   .navbar-custom .nav li a {
     color: #003a21;
-    padding: 20px;
+    padding: 10px;
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
