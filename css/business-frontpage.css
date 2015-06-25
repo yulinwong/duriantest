@@ -44,10 +44,10 @@ body {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: #83d927;
+    color: #003a21;
   }
 }
-@media only screen and (min-width: 1366px) {
+@media only screen and (min-width: 1170px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
