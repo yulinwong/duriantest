@@ -96,11 +96,11 @@ body {
 
   .icon-stack {
       display: inline-block;
-      height: 10em;
-      line-height: 2em;
+      height: 70em;
+      line-height: 70em;
       position: relative;
       vertical-align: -35%;
-      width: 2em;
+      width: 70em;
   }
   .icon-stack .icon-stack-base {
       font-size: 10em;
