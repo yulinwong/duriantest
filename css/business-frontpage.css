@@ -94,6 +94,34 @@ body {
     transform: translate3d(0, 100%, 0);
   }
 
+  .icon-stack {
+      display: inline-block;
+      height: 2em;
+      line-height: 2em;
+      position: relative;
+      vertical-align: -35%;
+      width: 2em;
+  }
+  .icon-stack .icon-stack-base {
+      font-size: 2em;
+  }
+  .icon-stack [class^="icon-"], .icon-stack [class*=" icon-"] {
+      display: block;
+      font-size: 1em;
+      height: 100%;
+      line-height: inherit;
+      position: absolute;
+      text-align: center;
+      width: 100%;
+  }
+  .icon-stack .glyphicon{
+      font-size: 2em;
+  }
+  .glyphicon-ban-circle
+  {
+      color:black;
+  }
+
 footer {
     padding: 30px 0;
 }
