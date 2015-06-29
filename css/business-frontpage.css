@@ -94,33 +94,6 @@ body {
     transform: translate3d(0, 100%, 0);
   }
 
-  .icon-stack {
-      display: inline-block;
-      height: 70em;
-      line-height: 70em;
-      position: relative;
-      vertical-align: -35%;
-      width: 70em;
-  }
-  .icon-stack .icon-stack-base {
-      font-size: 10em;
-  }
-  .icon-stack [class^="icon-"], .icon-stack [class*=" icon-"] {
-      display: block;
-      font-size: 2em;
-      height: 100%;
-      line-height: inherit;
-      position: absolute;
-      text-align: center;
-      width: 100%;
-  }
-  .icon-stack .glyphicon{
-      font-size: 3em;
-  }
-  .glyphicon-ban-circle
-  {
-      color:black;
-  }
 
 footer {
     padding: 30px 0;
