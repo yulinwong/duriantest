@@ -3059,19 +3059,19 @@ fieldset[disabled] a.btn {
 }
 .btn-default {
   color: #333;
-  background-color: #fff;
+  background-color: transparent;
   border-color: transparent;
   transform: uppercase;
 }
 .btn-default:focus,
 .btn-default.focus {
   color: #333;
-  background-color: #e6e6e6;
+  background-color: transparent;
   border-color: #8c8c8c;
 }
 .btn-default:hover {
   color: #333;
-  background-color: #407F7F;
+  background-color: transparent;
   border-color: #adadad;
 
 }
@@ -3465,8 +3465,8 @@ fieldset[disabled] .btn-danger.active {
 }
 .btn-link {
   font-weight: normal;
-  color: inherit;
-  border-radius: 0;
+  color: #407f7f;
+  border-btn-default: 0;
 }
 .btn-link,
 .btn-link:active,
