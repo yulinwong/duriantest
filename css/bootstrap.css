@@ -3169,6 +3169,33 @@ fieldset[disabled] .btn-default.active {
     margin-top: 3px;
 }
 
+/***********************
+  CUSTOM BTN VALUES
+************************/
+
+.btn {
+    padding: 14px 24px;
+    border: 0 none;
+    font-weight: 700;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+
+.btn-primary {
+    background: transparent;
+    color: transparent;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #4C976D;
+}
+.btn-primary:active, .btn-primary.active {
+    background: transparent;
+    box-shadow: none;
+}
+
 
 .btn-primary:active:hover,
 .btn-primary.active:hover,
