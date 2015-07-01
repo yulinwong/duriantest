@@ -11,6 +11,9 @@ html {
 }
 body {
   margin: 0;
+     background: url(https://cloud.githubusercontent.com/assets/8654889/8447184/4bbc99fc-1fe7-11e5-8b90-c5fbc28a912d.jpg);
+     background-size: 1440px 800px;
+     background-repeat:no-repeatdisplay: compact;
 }
 article,
 aside,
