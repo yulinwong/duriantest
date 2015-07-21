@@ -39,6 +39,19 @@ audio:not([controls]) {
   display: none;
   height: 0;
 }
+
+.featurette {
+  overflow: hidden;
+}
+
+.featurette-image.pull-left {
+  margin-right: 40px;
+}
+
+.featurette-image.pull-right {
+  margin-left: 40px;
+}
+
 [hidden],
 template {
   display: none;
@@ -64,6 +77,7 @@ h1 {
   margin: .67em 0;
   font-size: 2em;
 }
+
 mark {
   color: #000;
   background: #ff0;
