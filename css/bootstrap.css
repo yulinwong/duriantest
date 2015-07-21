@@ -45,11 +45,11 @@ audio:not([controls]) {
 }
 
 .featurette-image.pull-left {
-  margin-right: 40px;
+  margin-right: 20px;
 }
 
 .featurette-image.pull-right {
-  margin-left: 40px;
+  margin-left: 20px;
 }
 
 [hidden],
