@@ -276,15 +276,15 @@ body {
 .ie .cleancode_block .tab-pane.active {display:block;}
 
 
-.cleancode_block .nav-tabs {
+.cleancode_block .benefit-tabs {
 	margin:0 -15px;
 	border:0;
 }
-.cleancode_block .nav-tabs li {
+.cleancode_block .benefit-tabs li {
 	margin:0;
 	padding:0 15px;
 }
-.cleancode_block .nav-tabs li a {
+.cleancode_block .benefit-tabs li a {
 	width:170px;
 	height:170px;
 	margin:0;
@@ -295,7 +295,7 @@ body {
 	transition: background-color 0.3s ease-in-out;
 	-webkit-transition: background-color 0.3s ease-in-out;
 }
-.cleancode_block .nav-tabs li a i {
+.cleancode_block .benefit-tabs li a i {
 	display:block;
 	width:60px;
 	height:60px;
@@ -307,14 +307,14 @@ body {
 	transition: transform 0.2s ease-in-out;
 	-webkit-transition: -webkit-transform 0.2s ease-in-out;
 }
-.cleancode_block .nav-tabs li a.i1 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
-.cleancode_block .nav-tabs li a.i2 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
-.cleancode_block .nav-tabs li a.i3 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
-.cleancode_block .nav-tabs li a.i4 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
-.cleancode_block .nav-tabs li a.i5 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
-.cleancode_block .nav-tabs li a.i6 i {background-image:url(../images/i6.png);}
+.cleancode_block .benefit-tabs li a.i1 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
+.cleancode_block .benefit-tabs li a.i2 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
+.cleancode_block .benefit-tabs li a.i3 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
+.cleancode_block .benefit-tabs li a.i4 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
+.cleancode_block .benefit-tabs li a.i5 i {background-image:url(https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg);}
+.cleancode_block .benefit-tabs li a.i6 i {background-image:url(../images/i6.png);}
 
-.cleancode_block .nav-tabs li a span {
+.cleancode_block .benefit-tabs li a span {
 	display:block;
 	font-family: 'Roboto', sans-serif;
 	font-weight:400;
