@@ -237,7 +237,7 @@ body {
 .cleancode_block .tab-content {
 	overflow:hidden;
 	padding: 0;
-	margin:0 0 80px;
+	margin:0 0 0px;
 }
 .cleancode_block p.title {
 	margin:0 0 17px;
@@ -307,7 +307,7 @@ body {
 	transition: transform 0.2s ease-in-out;
 	-webkit-transition: -webkit-transform 0.2s ease-in-out;
 }
-.cleancode_block .nav-tabs li a.i1 i {background-image:url(../images/i1.png);}
+.cleancode_block .nav-tabs li a.i1 i {background-image:url("https://cloud.githubusercontent.com/assets/8654889/8368754/28b328fe-1be1-11e5-96e2-99bc4dc44d87.jpg");}
 .cleancode_block .nav-tabs li a.i2 i {background-image:url(../images/i2.png);}
 .cleancode_block .nav-tabs li a.i3 i {background-image:url(../images/i3.png);}
 .cleancode_block .nav-tabs li a.i4 i {background-image:url(../images/i4.png);}
