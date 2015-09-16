@@ -8,6 +8,7 @@ body {
     padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
+<<<<<<< HEAD
 .bg-one {
     background-color: #333439;
 }
@@ -37,6 +38,15 @@ body {
 	   -moz-transition: background .5s ease-in-out 0s;
 		 -o-transition: background .5s ease-in-out 0s;
 			transition: background .5s ease-in-out 0s;
+=======
+.navbar-custom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+>>>>>>> parent of e7d2ba3... changed navbar font
 }
 
 .navbar-inverse .navbar-nav > li.current > a {
