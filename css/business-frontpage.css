@@ -8,7 +8,6 @@ body {
     padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-<<<<<<< HEAD
 .navbar-custom {
   position: absolute;
   top: 0;
@@ -19,7 +18,8 @@ body {
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
-=======
+}
+
 .navbar {
   font-family: 'Autour One', cursive;
   border-bottom: 1px solid #666;
@@ -29,7 +29,7 @@ body {
 .navbar-brand {
 	height: auto;
 	padding: 8px 0;
->>>>>>> parent of 6e5a4d7... add bg color to nav
+
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
@@ -122,6 +122,7 @@ body {
     -o-transform: translate3d(0, 100%, 0);
     transform: translate3d(0, 100%, 0);
   }
+}
 
   *******************************************************************************************************************
   *     Subheader Effects
