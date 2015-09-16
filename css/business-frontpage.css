@@ -61,29 +61,29 @@ body {
     }
 
 @media only screen and (min-width: 768px) {
-  .navbar {
+  .navbar-custom {
     background: transparent;
     border-bottom: 1px solid #0085a1;
   }
-  .navbar .navbar-brand {
+  .navbar-custom .navbar-brand {
     color: #0085a1;
     padding: 20px;
   }
-  .navbar .navbar-brand:hover,
-  .navbar .navbar-brand:focus {
+  .navbar-custom .navbar-brand:hover,
+  .navbar-custom .navbar-brand:focus {
     color: #0085a1;
   }
-  .navbar .nav li a {
+  .navbar-custom .nav li a {
     color: #003a21;
     padding: 20px;
   }
-  .navbar .nav li a:hover,
-  .navbar .nav li a:focus {
+  .navbar-custom .nav li a:hover,
+  .navbar-custom .nav li a:focus {
     color: #83d927;
   }
 }
 @media only screen and (min-width: 1170px) {
-  .navbar {
+  .navbar-custom {
     -webkit-transition: background-color 0.3s;
     -moz-transition: background-color 0.3s;
     transition: background-color 0.3s;
@@ -96,7 +96,7 @@ body {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
   }
-  .navbar.is-fixed {
+  .navbar-custom.is-fixed {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
@@ -106,21 +106,21 @@ body {
     -moz-transition: -moz-transform 0.3s;
     transition: transform 0.3s;
   }
-  .navbar.is-fixed .navbar-brand {
+  .navbar-custom.is-fixed .navbar-brand {
     color: #404040;
   }
-  .navbar.is-fixed .navbar-brand:hover,
-  .navbar.is-fixed .navbar-brand:focus {
+  .navbar-custom.is-fixed .navbar-brand:hover,
+  .navbar-custom.is-fixed .navbar-brand:focus {
     color: #0085a1;
   }
-  .navbar.is-fixed .nav li a {
+  .navbar-custom.is-fixed .nav li a {
     color: #404040;
   }
-  .navbar.is-fixed .nav li a:hover,
-  .navbar.is-fixed .nav li a:focus {
+  .navbar-custom.is-fixed .nav li a:hover,
+  .navbar-custom.is-fixed .nav li a:focus {
     color: #0085a1;
   }
-  .navbar.is-visible {
+  .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
     -webkit-transform: translate3d(0, 100%, 0);
     -moz-transform: translate3d(0, 100%, 0);
