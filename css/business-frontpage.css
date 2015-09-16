@@ -8,6 +8,15 @@ body {
     padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
+.navbar-brand {
+	height: auto;
+	padding: 8px 0;
+}
+
+.navbar-brand h1 {
+	margin: 0;
+}
+
 .navbar-custom {
   position: absolute;
   top: 0;
