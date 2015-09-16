@@ -8,10 +8,6 @@ body {
     padding-top: 80px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
 }
 
-.bg-one {
-    background-color: #333439;
-}
-
 .navbar {
   font-family: 'Autour One', cursive;
   border-bottom: 1px solid #666;
